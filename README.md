@@ -3,3 +3,10 @@
 
 [node-button]: https://codecov.io/gh/Python-Markdown/markdown/branch/master/graph/badge.svg
 [node]: https://nodejs.org/en
+
+
+Setup node.js
+```
+npm -v
+node -v
+```
