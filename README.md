@@ -6,7 +6,18 @@
 
 
 Setup node.js
+<hr>
 ```
 npm -v
 node -v
+```
+
+github commands
+<hr>
+```
+git  --init
+
+[1]-track
+[2]-stage
+[3]-commit
 ```
