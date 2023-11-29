@@ -31,8 +31,6 @@ app.listen(PORT, () => {
 ```
 <hr>
 
-# git, github
-
 # Git Phase
 
 | number | Phase |
