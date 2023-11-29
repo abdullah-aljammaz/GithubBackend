@@ -31,7 +31,15 @@ app.listen(PORT, () => {
 ```
 <hr>
 
-# github commands
+# git, github
+
+# Git Phase
+
+| phase|
+|------|
+|Track|
+|Stage|
+|commit|
 
 ```bash
 git add .
