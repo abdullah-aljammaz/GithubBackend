@@ -17,13 +17,14 @@
 | `npx tsc --init ` | Make tsconfig.json File, And Set `"rootDir":"./src"` `"ourDir":"./dist"` |
 | `tsc --watch`     | Auto Compiler The Ts File To Js File                                     |
 
-```ts
 
+# Test Code
+```ts
 import express from 'express';
 
 const app = express()
 const PORT = 8080;
-app.get('/t', function (req, res) {
+app.get('/test', function (req, res) {
     res.send('Hello World')
 })
 app.listen(PORT, () => {
