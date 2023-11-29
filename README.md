@@ -54,4 +54,4 @@ git push
 
 > [!WARNING]  
 > You need To download Git Bash
-* [git](https://git-scm.com/)
+* [git-scm](https://git-scm.com/)
