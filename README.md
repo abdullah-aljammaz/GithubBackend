@@ -1,10 +1,8 @@
 # Github Backend
 [![node.js][node-button]][node]
 
-[node-button]: https://codecov.io/gh/Python-Markdown/markdown/branch/master/graph/badge.svg
-[node]: https://nodejs.org/en
 
-| Name | Description | Type | Default value |
+| Code | Description |
 | --- | --- | --- | --- |
 | `title_color` | Card's title color. | string (hex color) | `2f80ed` |
 | `text_color` | Body text color. | string (hex color) | `434d58` |
