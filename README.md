@@ -35,11 +35,11 @@ app.listen(PORT, () => {
 
 # Git Phase
 
-| phase|
-|------|
-|Track|
-|Stage|
-|commit|
+| phase|/|
+|------|-|
+|1|Track|
+|2|Stage|
+|3|commit|
 
 ```bash
 git add .
