@@ -52,6 +52,5 @@ git commit -m"your message"
 git push
 ```
 
-> [!WARNING]  
-> You need To download Git Bash
+# Need To Download
 * [git-scm](https://git-scm.com/)
