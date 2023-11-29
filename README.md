@@ -33,4 +33,4 @@ app.listen(PORT, () => {
 
 # github commands
 > [!WARNING]  
-> You need To download gitbash
+> You need To download Git Bash
