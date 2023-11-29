@@ -40,21 +40,21 @@ app.listen(PORT, () => {
 |2|Stage|
 |3|commit|
 
-```bash
-git config --global user.email "Email"
-git config --global user.name "User_name"
-git config user.email #Check Email
-git config user.name # Check Name
-git log # Check Message Log
-git clone "URL" # Download from Github
+# Sign In With Github
+```cmd
+$ git config --global user.email "Email"
+$ git config --global user.name "User_name"
+$ git config user.email #Check Email
+$ git config user.name # Check Name
 ```
-
+# Download The File Project From Github
+```cmd
+$ git clone "URL"
+```
 # Upload The File
 ```cmd
-git add .
-git commit -m"your message"
-git push```
-```cmd
+$ git add .
+$ git commit -m"your message"
 $ git push
 ```
 # Need To Download
