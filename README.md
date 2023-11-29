@@ -10,10 +10,10 @@
 First Download Express From npm
 |Download in cmd|
 | --- |
-|`npm i npm`|
+|`npm i -g npm`|
+|`npm i -g ts-node`|
 |`npm i express`|
 |`npm i @types/express`|
-|`npm i ts-node`|
 
 ```ts
 
