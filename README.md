@@ -9,8 +9,9 @@
 
 First Download Express From npm
 |code|
-|npm i express|
-|npm i @types/express|
+| --- |
+|`npm i express`|
+|`npm i @types/express`|
 
 ```ts
 import express from "express";
