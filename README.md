@@ -32,5 +32,12 @@ app.listen(PORT, () => {
 <hr>
 
 # github commands
+
+```bash
+git add .
+git commit -m"your message"
+git push
+```
+
 > [!WARNING]  
 > You need To download Git Bash
