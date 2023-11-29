@@ -35,7 +35,7 @@ app.listen(PORT, () => {
 
 # Git Phase
 
-| phase|
+| number | Phase |
 |-------|-|
 |1|Track|
 |2|Stage|
