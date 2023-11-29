@@ -1,22 +1,25 @@
 # Backend with express, And Github
 
-| Code | Description |
-| --- | --- |
-|`npx tsc --init `|Make tsconfig.json File, And Set `"rootDir":"./src"` `"ourDir":"./dist"`|
-|`tsc --watch`|Auto Compiler The Ts File To Js File|
+| Code              | Description                                                              |
+| ----------------- | ------------------------------------------------------------------------ |
+| `npx tsc --init ` | Make tsconfig.json File, And Set `"rootDir":"./src"` `"ourDir":"./dist"` |
+| `tsc --watch`     | Auto Compiler The Ts File To Js File                                     |
 
-```js
-// node.js, "classic" way:
-var MarkdownIt = require('markdown-it'),
-    md = new MarkdownIt();
-var result = md.render('# markdown-it rulezz!');
+# How Run The Server
 
-// node.js, the same, but with sugar:
-var md = require('markdown-it')();
-var result = md.render('# markdown-it rulezz!');
+<p>First Download</p>
+`npm i express`
+`npm i @types/express`
 
-// browser without AMD, added to "window" on script load
-// Note, there is no dash in "markdownit".
-var md = window.markdownit();
-var result = md.render('# markdown-it rulezz!');
+```ts
+import express from "express";
+
+const app = express();
+const PORT = 21;
+app.get("/t", function (req, res) {
+  res.send("Hello World");
+});
+app.listen(PORT, () => {
+  console.log(`server ${PORT}`);
+});
 ```
