@@ -29,3 +29,8 @@ app.listen(PORT, () => {
   console.log(`server ${PORT}`);
 });
 ```
+<hr>
+
+# github commands
+> [!WARNING]  
+> You need To download gitbash
