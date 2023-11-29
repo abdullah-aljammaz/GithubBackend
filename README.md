@@ -47,6 +47,7 @@ git config --global user.name "User_name"
 git config user.email #Check Email
 git config user.name # Check Name
 git log # Check Message Log
+git clone "URL" # Download from Github
 git add .
 git commit -m"your message"
 git push
