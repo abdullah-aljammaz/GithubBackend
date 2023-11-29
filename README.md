@@ -4,4 +4,4 @@
 
 | Code | Description |
 | --- | --- |
-|`fdsaf`|Test|
+|`npx tsc --init `|Make tsconfig.json File, And Set `"rootDir":"./src", "ourDir":"./dist"`|
