@@ -7,9 +7,10 @@
 
 # How Run The Server
 
-<p>First Download</p>
-`npm i express`
-`npm i @types/express`
+First Download Express From npm
+|code|
+|npm i express|
+|npm i @types/express|
 
 ```ts
 import express from "express";
