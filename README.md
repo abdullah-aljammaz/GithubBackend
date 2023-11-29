@@ -47,11 +47,16 @@ git config user.email #Check Email
 git config user.name # Check Name
 git log # Check Message Log
 git clone "URL" # Download from Github
-git add .
-git commit -m"your message"
-git push
 ```
 
+# Upload The File
+```cmd
+git add .
+git commit -m"your message"
+git push```
+```cmd
+$ git push
+```
 # Need To Download
 * [git scm](https://git-scm.com/)
 * [Node.js](https://nodejs.org/en/download)
