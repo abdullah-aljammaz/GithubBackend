@@ -46,7 +46,7 @@ git config --global user.email "Email"
 git config --global user.name "User_name"
 git config user.email #Check Email
 git config user.name # Check Name
-git log -> Check Message Log
+git log # Check Message Log
 git add .
 git commit -m"your message"
 git push
