@@ -1,6 +1,6 @@
 <h2 align="center">Backend with express, And Github</h2>
 
-# npm Download <!-- omit in toc -->
+# npm Download
 | Download in cmd        |
 | ---------------------- |
 | `npm i -g ts-node`     |
