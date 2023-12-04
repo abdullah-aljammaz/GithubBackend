@@ -3,7 +3,6 @@
 # npm Download <!-- omit in toc -->
 | Download in cmd        |
 | ---------------------- |
-| `npm i -g npm`         |
 | `npm i -g ts-node`     |
 | `npm i express`        |
 | `npm i @types/express` |
